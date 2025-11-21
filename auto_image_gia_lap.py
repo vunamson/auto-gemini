@@ -13,9 +13,9 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 # ==== CONFIG ====
-IMAGE_INPUT_DIR = r"C:\SunnyzGroup\Code\auto-gemini\image goc"
+IMAGE_INPUT_DIR = r"C:\SunnyzGroup\Code\auto-gemini\image_goc"
 OUTPUT_DIR = r"C:\SunnyzGroup\Code\auto-gemini\output"
-CREDENTIAL_PATH = r"C:\SunnyzGroup\Code\Crawl-Data\credentials.json"
+CREDENTIAL_PATH = r"C:\SunnyzGroup\Code\auto-gemini\credentials.json"
 SHEET_KEY = "17-RY-2rVg-bEbPONs_h5fNT7630c0oalMSV6HiT3vlM"
 
 
